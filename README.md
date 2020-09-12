@@ -1,2 +1,2 @@
-# AMAOED-CompProg1-Wwwk004
+# AMAOED-CompProg1-Week004
 My very first C++
